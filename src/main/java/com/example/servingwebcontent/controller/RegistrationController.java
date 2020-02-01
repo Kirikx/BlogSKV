@@ -1,11 +1,9 @@
 package com.example.servingwebcontent.controller;
 
 
-
 import com.example.servingwebcontent.domain.Role;
 import com.example.servingwebcontent.domain.User;
 import com.example.servingwebcontent.repos.UserRepo;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
